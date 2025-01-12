@@ -7,3 +7,6 @@ The data set provided to you is the data set of a Cafe Chain for one of its rest
 Dataset:
 
 # Cafe Data: Cafe_Data_MRA.xlsx
+
+
+# EDA in Tableau
